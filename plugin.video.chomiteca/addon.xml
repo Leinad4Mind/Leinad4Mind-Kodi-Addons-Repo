@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.chomiteca"
+       name="Chomiteca"
+       version="1.1.5.1"
+       provider-name="fightnight/Mafarricos/Leinad4Mind">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.t0mm0.common" version="1.0.0"/>
+		<import addon="script.module.requests" version="2.6.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="chomiteca.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="pt_PT">Conteúdos dos sites Minhateca.com.br e Chomikuj.pl no Kodi</summary>
+        <summary lang="pt_BR">Conteúdos dos sites Minhateca.com.br e Chomikuj.pl no Kodi</summary>
+        <summary lang="en">Contents of Minhateca.com.br and Chomikuj.pl websites in Kodi</summary>
+		<description lang="pt_pt">Vê os teus conteúdos e, caso tenhas pontos, os da comunidade Minhateca e Chomikuj no Kodi.</description>
+		<description lang="pt_br">Veja os seus conteúdos e, caso tenha pontos, os da comunidade Minhateca e Chomikuj no Kodi.</description>
+		<description lang="en">Check out your content and, in case you've points, the Minhateca and Chomikuj community in Kodi.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
