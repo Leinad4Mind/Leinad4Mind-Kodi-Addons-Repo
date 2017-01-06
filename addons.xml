@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.chomiteca"
        name="Chomiteca"
-       version="1.2.2"
+       version="1.2.3"
        provider-name="fightnight/Mafarricos/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
