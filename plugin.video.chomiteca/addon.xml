@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.chomiteca"
        name="Chomiteca"
-       version="1.2.3"
+       version="1.3.0"
        provider-name="fightnight/Mafarricos/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
