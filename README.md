@@ -26,6 +26,9 @@ Exemplo: dropbox.com/s/codigodapastaxpto/ ou omeuservidor.com/imagens/
 ###Como utilizar o Caminho Local de Imagens?
 Basta para isso colocar as imagens em: %AppData%\Kodi\addons\plugin.video.chomiteca\resources\covers\
 
+###Que nome dar às imagens?
+O nome das imagens tem de ser exactamente o mesmo que o dos vídeos e em formato PNG.
+
 ###Para que serve as 3 últimas opções?
 A "Biblioteca de Filmes - Separar por Pasta" serve para colocar o .strm de cada filme numa pasta separada.
 
