@@ -32,3 +32,12 @@ A "Biblioteca de Filmes - Separar por Pasta" serve para colocar o .strm de cada 
 Já nas Séries, cada série será sempre colocada numa pasta, mas terá ainda as seguintes escolhas:
 A "Biblioteca de Séries - Separar por Temporadas" serve para separar o .strm por Temporadas, ou seja, haverá sub-pastas para cada Temporada.
 A "Biblioteca de Séries - Manter nome dos ficheiros" serve para que os nomes dos .strm sejam iguais aos nomes dos ficheiros originais, pois por defeito são simplificados.
+
+
+##URL das Bibliotecas:
+
+Filmes: **special://userdata/addon_data/plugin.video.chomiteca/Movies**
+
+Séries: **special://userdata/addon_data/plugin.video.chomiteca/TVshows**
+
+Videoclips: **special://userdata/addon_data/plugin.video.chomiteca/Musicvideos**
