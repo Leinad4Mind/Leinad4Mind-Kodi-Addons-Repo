@@ -44,3 +44,6 @@ Filmes: **special://userdata/addon_data/plugin.video.chomiteca/Movies**
 Séries: **special://userdata/addon_data/plugin.video.chomiteca/TVshows**
 
 Videoclips: **special://userdata/addon_data/plugin.video.chomiteca/Musicvideos**
+
+###Querem ajudar a contribuir o projecto?
+O código encontra-se aqui: https://github.com/Leinad4Mind/Leinad4Mind-xbmc-addons
