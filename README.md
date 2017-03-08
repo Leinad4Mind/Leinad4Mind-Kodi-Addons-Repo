@@ -54,3 +54,9 @@ O código encontra-se aqui: https://github.com/Leinad4Mind/Leinad4Mind-xbmc-addo
 ![alt tag](http://i.imgur.com/gN9mhcy.png)
 
 Visto o fightnight aparentar estar ausente. Irei continuar com o seu legado neste addon.
+
+
+![alt tag](http://i.imgur.com/SbAtf7B.png)
+
+Também decidi melhorar este addon do fightnight.
+
