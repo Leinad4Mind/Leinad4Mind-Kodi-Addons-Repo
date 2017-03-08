@@ -23,6 +23,25 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.copiadb"
+       name="CopiaDB"
+       version="3.0.0"
+       provider-name="fightnight/Leinad4Mind">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.requests" version="2.6.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
+        <description>Vê os teus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+        <platform>all</platform>
+        <source>https://github.com/Leinad4Mind/Leinad4Mind-kodi-addons/tree/master/plugin.video.copiadb</source>
+    </extension>
+</addon>
+
 <addon id="plugin.video.okgoals"
        name="OKGoals"
        version="2.0.0"
