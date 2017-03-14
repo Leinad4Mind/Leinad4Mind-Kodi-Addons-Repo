@@ -1,0 +1,11 @@
+Versão 2.0.0 - 13/03/2017
+> Actualização para Sapo24
+
+Versão 1.0.3 - 04/12/2014
+> Correcções
+
+Versão 1.0.1 - 23/12/2013
+> Correcções para voltar a funcionar
+
+Versão 1.0.0 - 22/03/2013
+> Primeira versão do addon
