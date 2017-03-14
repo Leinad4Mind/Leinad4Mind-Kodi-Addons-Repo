@@ -58,5 +58,8 @@ Visto o fightnight aparentar estar ausente. Irei continuar com o seu legado nest
 
 ![alt tag](http://i.imgur.com/SbAtf7B.png)
 
-Também decidi melhorar este addon do fightnight.
+Decidi melhorar este addon do fightnight.
 
+![alt tag](http://i.imgur.com/565zVdw.png)
+
+Também decidi melhorar este addon do Enen92.
