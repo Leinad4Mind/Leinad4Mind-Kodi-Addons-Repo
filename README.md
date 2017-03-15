@@ -63,3 +63,7 @@ Decidi melhorar este addon do fightnight.
 ![alt tag](http://i.imgur.com/565zVdw.png)
 
 Também decidi melhorar este addon do Enen92.
+
+![alt tag](http://i.imgur.com/MFdd1gV.png)
+
+Melhoria do addon Cinecartaz do Maffaricos.
