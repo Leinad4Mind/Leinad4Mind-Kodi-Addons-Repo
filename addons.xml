@@ -17,7 +17,7 @@
 
 <addon id="plugin.video.chomiteca"
        name="Chomiteca"
-       version="1.3.8"
+       version="1.3.9"
        provider-name="fightnight/Mafarricos/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -40,7 +40,7 @@
 
 <addon id="plugin.video.copiadb"
        name="CopiaDB"
-       version="3.0.1"
+       version="3.0.2"
        provider-name="fightnight/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
