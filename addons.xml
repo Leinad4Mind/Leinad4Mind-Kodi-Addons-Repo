@@ -38,6 +38,22 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.cinecartaz" name="Cinecartaz" version="1.0.0" provider-name="Mafarricos/Leinad4Mind">
+	<requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>pt</language>
+    <platform>all</platform>
+    <summary lang="pt_PT">Cinecartaz</summary>
+    <description lang="pt_PT">Ver trailers e informações do site cinecartaz.publico.pt</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.copiadb"
        name="CopiaDB"
        version="3.0.2"
