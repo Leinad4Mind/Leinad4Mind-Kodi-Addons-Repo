@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.okgoals"
        name="OKGoals"
-       version="2.0.0"
-       provider-name="fightnight">
+       version="2.0.1"
+       provider-name="fightnight/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver"  version="1.0.5"/> 
@@ -13,10 +13,13 @@
     </extension>
     <extension point="xbmc.addon.metadata">
 		<summary lang="pt_PT">OKGoals addon para o Kodi</summary>
+		<summary lang="pt_BR">OKGoals addon para o Kodi</summary>
 		<summary lang="en">OKGoals addon for Kodi</summary>
-		<description lang="pt_PT">Os melhor golos do OKGoals.com para o Kodi.</description>
+		<description lang="pt_PT">Os melhores golos do OKGoals.com para o Kodi.</description>
+		<description lang="pt_BR">Os melhores gols do OKGoals.com para o Kodi.</description>
 		<description lang="en">The best goals from OKGoals.com on Kodi.</description>
 		<disclaimer lang="pt_PT">Addon independente e opensource não afiliado com o OKGoals.</disclaimer>
+		<disclaimer lang="pt_BR">Addon independente e opensource não afiliado com OKGoals.</disclaimer>
 		<disclaimer lang="en">Independent and opensource addon not endorsed by OKGoals.</disclaimer>
 		<platform>all</platform>
 		<source>https://github.com/Leinad4Mind/Leinad4Mind-kodi-addons/tree/master/plugin.video.okgoals</source>

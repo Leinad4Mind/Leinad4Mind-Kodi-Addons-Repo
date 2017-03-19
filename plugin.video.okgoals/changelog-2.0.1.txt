@@ -1,0 +1,101 @@
+[B]v2.0.0 (19 de Março de 2017):[/B]
+- Actualização do XML
+
+[B]v2.0.0 (07 de Março de 2017):[/B]
+- Fork do Projecto do fightnight
+- Correcções no addon
+
+[B]v1.0.3 (26 de Marco de 2016):[/B]
+- Correccoes no addon.
+
+[B]v1.0.2 (13 de Dezembro de 2015):[/B]
+- Correccoes no addon.
+
+[B]v1.0.1 (5 de Abril de 2015):[/B]
+- Pequenas correccoes.
+
+[B]v1.0.0 (28 de Marco de 2015):[/B]
+- Correccao de titulos, cores e artwork (tks Leinad4Mind).
+- Restruturacao do codigo, limpeza e melhorias internas.
+- Fix no sistema de traducoes.
+- Outras correccoes.
+
+[B]v0.2.02 (23 de Marco de 2015):[/B]
+- Fix no texto da liga portuguesa. (tks Leinad4Mind)
+- Novos logos (Leinad4Mind).
+- Outras optimizacoes e correccoes.
+
+[B]v0.2.01 (11 de Marco de 2015):[/B]
+- Correccoes nos servidores.
+- Adicionada liga portuguesa.
+
+[B]v0.2.00 (17 de Dezembro de 2014):[/B]
+- Adaptacao ao sucessor OKGoals.com.
+
+[B]v0.1.01 (13 de Novembro de 2014):[/B]
+- Fix url do site. (ty mafarricos)
+- Pequenas correccoes de art.
+- Fix nas paginas.
+- Outras correccoes.
+
+[B]v0.1.00 (11 de Novembro de 2014):[/B]
+PR lancado pelo enen92:
+- Fanart adicionada.
+- Servidores corrigidos.
+- Fix dns para dominio bloqueado nas settings.
+
+[B]v0.0.12 (29 de Agosto de 2014):[/B]
+- Correccao de Servidores.
+- Limpeza de codigo. (ty mafarricos)
+
+[B]v0.0.11 (28 de Junho de 2014):[/B]
+- Correccoes para suporte a novo layout do site.
+
+[B]v0.0.10 (21 de Junho de 2014):[/B]
+- Remocao da mensagem inicial.
+
+[B]v0.0.09 (9 de Abril de 2014):[/B]
+- Corrigido bug que fazia com que nao existissem servidores disponiveis.
+- Outras correccoes.
+
+[B]v0.0.08 (23 de Fevereiro de 2014):[/B]
+- Melhorias na identificacao dos titulos dos videos. (ty tfouto)
+- Outras melhorias.
+
+[B]v0.0.07 (23 de Fevereiro de 2014):[/B]
+- Adicionado titulos dos videos (obrigado tfouto pelas dicas).
+- Corrigido rutube.
+- Adicionado playwire.
+
+[B]v0.0.06 (21 de Dezembro de 2013):[/B]
+- Suporte a Gotham.
+- Correccao de servidor VK.
+- Adicionado menu de seleccao de qualidade 1080p-240p.
+
+[B]v0.0.05 (17 de Novembro de 2013):[/B]
+- Corrigido bug que impedia player de reproduzir alguns videos.
+- Outros erros corrigidos.
+
+[B]v0.0.04 (3 de Novembro de 2013):[/B]
+- Novos streamers adicionados.
+- Streamers corrigidos.
+- Correccao de erro que impedia o funcionamento em versoes gotham.
+- Outros erros corrigidos.
+
+[B]v0.0.03 (30 de Junho de 2013):[/B]
+- Novos Streamers compativeis
+- Mudanca de servidor.
+- Outras correccoes.
+
+[B]v0.0.02 (24 de Fevereiro de 2013):[/B]
+- Logo adicionado.
+- Corrigido problema com as paginas.
+- Corrigido erro de script caso video dailymotion esteja indisponivel.
+- Corrigidos caracteres especiais.
+- Ja e possivel consultar info sobre os proximos jogos.
+- Adicionada mensagem de referencia ao site oficial.
+- Hora local adicionada.
+- Addon disponivel em ingles.
+
+[B]v0.0.01 (22 de Fevereiro de 2013):[/B]
+- Primeira release

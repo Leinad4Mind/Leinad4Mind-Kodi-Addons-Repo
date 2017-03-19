@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.image.bancadejornais" name="Banca de Jornais" version="2.1.0" provider-name="enen92/Leinad4Mind">
+<addon id="plugin.image.bancadejornais" name="Banca de Jornais" version="2.1.1" provider-name="enen92/Leinad4Mind">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -10,8 +10,8 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="pt">Veja as capas dos jornais no Kodi</summary>
-    <description lang="pt">Veja as capas dos principais jornais diariamente no Kodi. As capas são retiradas do site sapo24.</description>
     <summary lang="en">See the portuguese newspaper covers on Kodi</summary>
+    <description lang="pt">Veja as capas dos principais jornais diariamente no Kodi. As capas são retiradas do site sapo24.</description>
     <description lang="en">See all the major portuguese newspaper covers on Kodi. All covers are retreived from the website sapo24.</description>
     <license>GPL 2.0</license>
   </extension>
@@ -62,25 +62,31 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.cinecartaz" name="Cinecartaz" version="1.0.0" provider-name="Mafarricos/Leinad4Mind">
-	<requires>
+<addon id="plugin.video.cinecartaz"
+       name="Cinecartaz"
+       version="1.0.1"
+       provider-name="Mafarricos/Leinad4Mind">
+    <requires>
     <import addon="xbmc.python" version="2.14.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <language>pt</language>
     <platform>all</platform>
     <summary lang="pt_PT">Cinecartaz</summary>
+    <summary lang="pt_BR">Cinecartaz</summary>
+    <summary lang="en">Cinecartaz</summary>
     <description lang="pt_PT">Ver trailers e informações do site cinecartaz.publico.pt</description>
+    <description lang="pt_BR">Ver trailers e informações do site português cinecartaz.publico.pt</description>
+    <description lang="en">See trailers and informations from the portuguese website cinecartaz.publico.pt</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.copiadb"
        name="CopiaDB"
-       version="3.0.2"
+       version="3.0.3"
        provider-name="fightnight/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -90,8 +96,12 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
-        <description>Vê os teus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+        <summary lang="pt_PT">Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
+		<summary lang="pt_BR">Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
+		<summary lang="en">Contents from CopiaPop.com, DiskoKosmiko.mx and KBagi.com on Kodi</summary>
+        <description lang="pt_PT">Vê os teus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+		<description lang="pt_BR">Veja os seus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+		<description lang="en">See your and others people contents from copiapop (Espanha), diskokosmiko (México) and kumpulbagi (Indonésia) communities on Kodi.</description>
         <platform>all</platform>
         <source>https://github.com/Leinad4Mind/Leinad4Mind-kodi-addons/tree/master/plugin.video.copiadb</source>
     </extension>
@@ -99,8 +109,8 @@
 
 <addon id="plugin.video.okgoals"
        name="OKGoals"
-       version="2.0.0"
-       provider-name="fightnight">
+       version="2.0.1"
+       provider-name="fightnight/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver"  version="1.0.5"/>
@@ -111,10 +121,13 @@
     </extension>
     <extension point="xbmc.addon.metadata">
 		<summary lang="pt_PT">OKGoals addon para o Kodi</summary>
+		<summary lang="pt_BR">OKGoals addon para o Kodi</summary>
 		<summary lang="en">OKGoals addon for Kodi</summary>
-		<description lang="pt_PT">Os melhor golos do OKGoals.com para o Kodi.</description>
+		<description lang="pt_PT">Os melhores golos do OKGoals.com para o Kodi.</description>
+		<description lang="pt_BR">Os melhores gols do OKGoals.com para o Kodi.</description>
 		<description lang="en">The best goals from OKGoals.com on Kodi.</description>
 		<disclaimer lang="pt_PT">Addon independente e opensource não afiliado com o OKGoals.</disclaimer>
+		<disclaimer lang="pt_BR">Addon independente e opensource não afiliado com OKGoals.</disclaimer>
 		<disclaimer lang="en">Independent and opensource addon not endorsed by OKGoals.</disclaimer>
 		<platform>all</platform>
 		<source>https://github.com/Leinad4Mind/Leinad4Mind-kodi-addons/tree/master/plugin.video.okgoals</source>
