@@ -12,7 +12,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="pt_BR">Animes Legendados Online</summary>
-    <description lang="pt_br">No Anime Brasil voce assiste animes legendados com audio original em qualidade SD e HD</description>
+    <description lang="pt_br">No Anime Brasil você assiste animes legendados com áudio original em qualidade SD e HD</description>
     <platform>all</platform>
   </extension>
 </addon>
