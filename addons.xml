@@ -17,6 +17,24 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.animebrasil" name="Anime Brasil" version="3.0.0" provider-name="AddonBrasil & Leinad4Mind">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <language>pt</language>
+    <platform>all</platform>
+    <summary lang="pt">Animes Legendados Online</summary>
+    <description lang="pt">No Anime Brasil você assiste animes legendados com áudio original em qualidade SD e HD</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.chomiteca"
        name="Chomiteca"
        version="1.4.0"
