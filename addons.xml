@@ -19,7 +19,7 @@
 
 <addon id="plugin.video.animebrasil"
        name="Anime Brasil"
-       version="3.0.1"
+       version="3.0.2"
        provider-name="AddonBrasil/Leinad4Mind">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -30,12 +30,14 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="pt_BR">Animes Legendados Online</summary>
-    <description lang="pt_BR">No Anime Brasil você assiste animes legendados com audio original em qualidade SD e HD</description>
     <summary lang="pt_PT">Animes Legendados Online</summary>
-    <description lang="pt_PT">No Anime Brasil assistes a animes legendados em brasileiro com áudio original em qualidade SD e HD</description>
     <summary lang="en">Anime Online Subtitled in Brazilian</summary>
+    <description lang="pt_BR">No Anime Brasil você assiste animes legendados com audio original em qualidade SD e HD</description>
+    <description lang="pt_PT">No Anime Brasil assistes a animes legendados em brasileiro com áudio original em qualidade SD e HD</description>
     <description lang="en">On Anime Brasil you watch animes subtitled in brazilian with original audio on quality SD and HD</description>
-    <platform>all</platform>
+    <disclaimer lang="pt_BR">O autor não hospeda nem distribui qualquer conteúdo exibido por este addon. O autor não tem nenhuma afiliação com o provedor do conteúdo.</disclaimer>
+	<disclaimer lang="pt_PT">O autor não hospeda nem distribui qualquer conteúdo exibido por este addon. O autor não tem nenhuma afiliação com o provedor do conteúdo. </disclaimer>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
   </extension>
 </addon>
 
