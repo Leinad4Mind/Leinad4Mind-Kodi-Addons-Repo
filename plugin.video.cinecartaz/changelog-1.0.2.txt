@@ -1,0 +1,20 @@
+﻿[B]v1.0.2 (21 de Março de 2017):[/B]
+- Pequenas Melhorias
+
+[B]v1.0.1 (15 de Março de 2017):[/B]
+- Actualização do XML
+
+[B]v1.0.0 (15 de Março de 2017):[/B]
+- Limpeza do Código
+- Correcção nos Destaques
+- Novo Logo
+- Adição de Modo Desempenho
+
+[B]v0.0.4 (01 de Outubro de 2015):[/B]
+- Correcção nos Trailers
+
+[B]v0.0.3 (03 de Setembro de 2015):[/B]
+- Correcção nos Trailers
+
+[B]v0.0.2 (02 de Setembro de 2015):[/B]
+- Primeira Release.
