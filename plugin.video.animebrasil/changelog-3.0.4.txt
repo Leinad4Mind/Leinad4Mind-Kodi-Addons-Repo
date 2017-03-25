@@ -1,0 +1,35 @@
+﻿Versão 3.0.4 - (25/03/2017)
+* COrrecção para o player funcionar no Kodi 17+
+
+Versão 3.0.3 - (20/03/2017)
+* Escolha de qualidade removida do play, passando a ser configurado no addon
+
+Versão 3.0.2 - (20/03/2017)
+* Correcção da função Play tornando o addon novamente funcional
+
+Versão 3.0.1 - (19/03/2017)
+* Actualização do XML
+
+Versão 3.0.0 - (19/03/2017)
+* Correção do addon por mudança no site
+* Otimização de código
+* Novas funcionalidades adicionadas
+
+Versão 2.1.0 - (25/08/2016)
+* Correção do addon por mudança no site
+* Otimização de código
+
+Versão 2.0.3 - (24/09/2015)
+* Correção do addon por mudança no site
+* Otimização de código
+
+Versão 2.0.3 - (24/09/2015)
+* Correção de última hora
+* Otimização de código
+
+Versão 2.0.1 - (24/09/2015)
+* Correção de um pequeno bug na listagem dos episódios
+* Leve otimização do codigo fonte
+
+Versão 2.0.0 - (24/08/2015)
+* Primeiro release do addon by AddonBrasil
