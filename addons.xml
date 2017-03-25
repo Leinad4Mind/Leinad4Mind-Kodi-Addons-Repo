@@ -136,6 +136,29 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.sapo"
+       name="Sapo Videos"
+       version="2.0.0"
+       provider-name="fightnight/Leinad4Mind">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<language>pt</language>
+		<summary lang="en">Sapo Videos addon for Kodi</summary>
+		<summary lang="pt">Sapo Vídeos addon para o Kodi</summary>
+        <description lang="en">Live and On-Demand videos from Sapo Videos webpage for Kodi.</description>
+		<description lang="pt">Vídeos e transmissões ao vivo do Sapo Vídeos para o Kodi.</description>
+		<disclaimer lang="en">Independent and opensource plugin not endorsed by Sapo.</disclaimer>
+		<disclaimer lang="pt">Addon independente e opensource não afiliado com o Sapo.</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="repository.leinad4mind" name="Leinad4Mind Repositório" version="1.0.0" provider-name="Leinad4Mind">
 	<extension point="xbmc.addon.repository" name="Leinad4Mind Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/Leinad4Mind/leinad4mind-addons/master/addons.xml</info>
