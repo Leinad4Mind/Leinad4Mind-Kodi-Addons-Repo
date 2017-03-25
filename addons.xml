@@ -19,7 +19,7 @@
 
 <addon id="plugin.video.animebrasil"
        name="Anime Brasil"
-       version="3.0.3"
+       version="3.0.4"
        provider-name="AddonBrasil/Leinad4Mind">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
