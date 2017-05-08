@@ -71,3 +71,7 @@ Melhoria do addon Cinecartaz do Maffaricos.
 ![alt tag](http://i.imgur.com/HZerLqq.png)
 
 Melhoria do addon Sapo Vídeos do fightnight.
+
+![alt tag](http://i.imgur.com/VRwu2ar.png)
+
+Melhoria do addon Anime Brasil do grupo AddonBrasil.
