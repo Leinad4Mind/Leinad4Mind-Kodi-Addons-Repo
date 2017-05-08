@@ -67,3 +67,7 @@ Também decidi melhorar este addon do Enen92.
 ![alt tag](http://i.imgur.com/MFdd1gV.png)
 
 Melhoria do addon Cinecartaz do Maffaricos.
+
+![alt tag](http://i.imgur.com/HZerLqq.png)
+
+Melhoria do addon Sapo Vídeos do fightnight.
