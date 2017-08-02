@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.copiadb"
        name="CopiaDB"
-       version="3.0.4"
+       version="3.0.5"
        provider-name="fightnight/Leinad4Mind">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -11,12 +11,12 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="pt_PT">Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
-        <summary lang="pt_BR">Conteúdos dos sites CopiaPop.com, DiskoKosmiko.mx e KBagi.com no Kodi</summary>
-        <summary lang="en">Contents from CopiaPop.com, DiskoKosmiko.mx and KBagi.com on Kodi</summary>
-        <description lang="pt_PT">Vê os teus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
-        <description lang="pt_BR">Veja os seus conteúdos e os das comunidades copiapop (Espanha), diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
-        <description lang="en">Check out yours and others people contents from copiapop (Spain), diskokosmiko (Mexico) and kumpulbagi (Indonesia) communities on Kodi.</description>
+        <summary lang="pt_PT">Conteúdos dos sites DiskoKosmiko.mx e KBagi.com no Kodi</summary>
+        <summary lang="pt_BR">Conteúdos dos sites DiskoKosmiko.mx e KBagi.com no Kodi</summary>
+        <summary lang="en">Contents from DiskoKosmiko.mx and KBagi.com on Kodi</summary>
+        <description lang="pt_PT">Vê os teus conteúdos e os das comunidades diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+        <description lang="pt_BR">Veja os seus conteúdos e os das comunidades diskokosmiko (México) e kumpulbagi (Indonésia) no Kodi.</description>
+        <description lang="en">Check out yours and others people contents from diskokosmiko (Mexico) and kumpulbagi (Indonesia) communities on Kodi.</description>
         <platform>all</platform>
         <source>https://github.com/Leinad4Mind/Leinad4Mind-kodi-addons/tree/master/plugin.video.copiadb</source>
     </extension>
