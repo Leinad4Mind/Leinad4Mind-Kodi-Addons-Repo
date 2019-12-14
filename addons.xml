@@ -64,7 +64,6 @@
     </extension>
 </addon>
 
-
 <addon id="plugin.video.cinecartaz"
        name="Cinecartaz"
        version="1.0.2"
