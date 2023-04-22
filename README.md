@@ -1,8 +1,56 @@
 ## NOTE: IF YOU WANT THOSE ADDONS FOR KODI 19+ PLEASE GO TO: https://leinad4mind.top/forum/
 
-# Leinad4Mind Addons Para o Kodi
+# Leinad4Mind Addons For Kodi
 
 ![alt tag](http://i.imgur.com/oiYJPZ5.jpg)
+
+![eua translation](https://i.imgur.com/rYOEi5v.png)
+
+
+## Would you like to create a Personal Digital Library?
+
+### Now you can with Chomiteca.
+
+Although minhateca and chomikuj have points and are paid, it still allows us to have free accounts and have unlimited files in our accounts and it is possible to view any contents of our accounts without spending these points, that is, for free. In other words, it is possible for us to create our own digital library.
+
+### Extra Features:
+- [x] Hide Images
+- [x] Hide Subtitles
+- [x] Enable Image Server for Presentation Layers
+- [x] Enable Local Image Path for Presentation Layers
+- [x] Movie Library - Sort by Folder
+- [x] Series Library - Sort By Seasons
+- [x] Series library - Keep files name
+
+### How to use the Image Server?
+To use this new feature, simply enter the address of the server folder that will allocate the cover images.
+Example: dropbox.com/s/xyzfoldercode/ or myownserver.com/images/
+
+### How to use the Local Path for Images?
+To do so, simply place the images in: %AppData%\Kodi\addons\plugin.video.chomiteca\resources\covers\
+
+### What name to give to the images?
+The name of the images must be exactly the same as that of the videos and in PNG format.
+
+### What are the last 3 options for?
+The "Movie Library - Separate by Folder" option is used to place the .strm of each movie in a separate folder.
+
+In TV Shows, each series will always be placed in a folder, but you still have the following choices:
+The "TV Show Library - Separate by Seasons" option is used to separate the .strm by Seasons, i.e. there will be sub-folders for each Season.
+The "TV Show Library - Keep File Names" option is used to keep the names of the .strm files the same as the original file names, as they are simplified by default.
+
+## Library URLs:
+
+Movies: **special://userdata/addon_data/plugin.video.chomiteca/Movies**
+
+TV Shows: **special://userdata/addon_data/plugin.video.chomiteca/TVshows**
+
+Music Videos: **special://userdata/addon_data/plugin.video.chomiteca/Musicvideos**
+
+#
+
+
+![pt translation](https://i.imgur.com/TnGOXLT.png)
 
 ## Queriam criar uma Biblioteca Digital Pessoal?
 
@@ -19,6 +67,7 @@ Por outras palavras é-nos possível criar a nossa própria biblioteca digital.
 - [x] Biblioteca de Filmes - Separar por Pasta
 - [x] Biblioteca de Séries - Separar por Temporadas
 - [x] Biblioteca de Séries - Manter nome dos ficheiros
+
 
 
 ### Como utilizar o Servidor de Imagens?
@@ -47,16 +96,12 @@ Séries: **special://userdata/addon_data/plugin.video.chomiteca/TVshows**
 
 Videoclips: **special://userdata/addon_data/plugin.video.chomiteca/Musicvideos**
 
-### Querem ajudar a contribuir o projecto?
-O código encontra-se aqui: https://github.com/Leinad4Mind/Leinad4Mind-xbmc-addons
-
 
 #
 
 ![alt tag](http://i.imgur.com/gN9mhcy.png)
 
 Visto o fightnight aparentar estar ausente. Irei continuar com o seu legado neste addon.
-
 
 ![alt tag](http://i.imgur.com/SbAtf7B.png)
 
