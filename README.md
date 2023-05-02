@@ -11,7 +11,7 @@
 
 ### Now you can with Chomiteca.
 
-Although minhateca and chomikuj have points and are paid, it still allows us to have free accounts and have unlimited files in our accounts and it is possible to view any contents of our accounts without spending these points, that is, for free. In other words, it is possible for us to create our own digital library.
+Although ~minhateca and~ chomikuj have points and are paid, it still allows us to have free accounts and have unlimited files in our accounts and it is possible to view any contents of our accounts without spending these points, that is, for free. In other words, it is possible for us to create our own digital library.
 
 ### Extra Features:
 - [x] Hide Images
@@ -56,7 +56,7 @@ Music Videos: **special://userdata/addon_data/plugin.video.chomiteca/Musicvideos
 
 ### Agora já podem com o Chomiteca.
 
-Apesar do minhateca e o chomikuj terem pontos e serem pagos, permite, ainda assim, ter contas gratuitas e ter ficheiros ilimitados nas nossas contas e é possível visualizar quaisquer conteúdos das nossas contas sem gastar esses ditos pontos, ou seja, de forma gratuita.
+Apesar do ~minhateca e o~ chomikuj terem pontos e serem pagos, permite, ainda assim, ter contas gratuitas e ter ficheiros ilimitados nas nossas contas e é possível visualizar quaisquer conteúdos das nossas contas sem gastar esses ditos pontos, ou seja, de forma gratuita.
 Por outras palavras é-nos possível criar a nossa própria biblioteca digital.
 
 ### Funcionalidades Extra:
